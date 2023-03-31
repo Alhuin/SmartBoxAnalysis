@@ -2,7 +2,7 @@
 name = "smartboxanalysis"
 version = "0.1.0"
 description = ""
-authors = ["j.janin-reynaud <julien.janin-reynaud@itsfactory.fr>"]
+authors = ["Alhuin <alhuin.git.proton.me>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
